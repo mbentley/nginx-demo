@@ -2,7 +2,7 @@ mbentley/nginx-demo
 ===================
 
 Build:
-`docker build -t mbentley/nginx-demo`
+`docker build -t mbentley/nginx-demo .`
 
 Push:
 `docker push mbentley/nginx-demo`
