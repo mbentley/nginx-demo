@@ -1,4 +1,4 @@
-nginx-demo
-==========
+mbentley/nginx-demo
+===================
 
-`docker run -itd -p 80 nginx-demo`
+`docker run -d -p 80:80 mbentley/nginx-demo`
