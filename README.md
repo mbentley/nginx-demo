@@ -9,3 +9,6 @@ Push:
 
 Usage:
 `docker run -it -p 80:80 mbentley/nginx-demo`
+
+Interactive volume:
+`docker run -it -p 80:80 -v $(pwd):/usr/share/nginx/html mbentley/nginx-demo`
