@@ -8,4 +8,4 @@ Push:
 `docker push mbentley/nginx-demo`
 
 Usage:
-`docker run -d -p 80:80 mbentley/nginx-demo`
+`docker run -it -p 80:80 mbentley/nginx-demo`
